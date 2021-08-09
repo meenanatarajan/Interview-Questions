@@ -1,0 +1,39 @@
+1) Mention what is the responsibility of a Data analyst?
+
+2) What is required to become a data analyst?
+
+3) Mention what are the various steps in an analytics project?
+
+4) Mention what is data cleansing?
+
+5) List out some of the best practices for data cleaning?
+
+6) Explain what is logistic regression?
+
+7) List of some best tools that can be useful for data-analysis?
+
+8) Mention what is the difference between data mining and data profiling?
+
+9) List out some common problems faced by data analyst?
+
+10) Mention the name of the framework developed by Apache for processing large data set for an application in a distributed computing environment?
+
+11) Mention what are the missing patterns that are generally observed?
+
+12) Explain what is KNN imputation method?
+
+13) Mention what are the data validation methods used by data analyst?
+
+14) Explain what should be done with suspected or missing data?
+
+15) Mention how to deal the multi-source problems?
+
+16) Explain what is an Outlier?
+
+17) Explain what is Hierarchical Clustering Algorithm?
+
+18) Explain what is K-mean Algorithm?
+
+19) Mention what are the key skills required for Data Analyst?
+
+20) What is a hash table?
