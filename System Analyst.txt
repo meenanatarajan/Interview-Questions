@@ -1,0 +1,33 @@
+1. According To You, What Is The Basic Role Of A Computer System Analyst?
+
+2. Can You Share Some Of Your Experience In The Most Recent Computer Programming Projects?
+
+3. Explain The Process Of Analyzing The Existing System.
+
+4. How Will You Differentiate Between Functional And Non-Functional Requirements?
+
+5. Have You Ever Been Asked To Design A New System With Limited Resources? Walk Me Through It.
+
+6. How Do You Deal With Frequent Changes In User Requirements?
+
+7. What According To You Are The Skills Required To Become A Good Computer Analyst?
+
+8. Are You Aware Of The Requirements That A System Analyst Should Gather And Analyze?
+
+9. Have You Ever Devised A Flowchart Or Diagram To Describe The Logical Operational Steps Of A Program?
+
+10. What Should A System Analyst Document?
+
+11. How Would You Do A Software Registration?
+
+12. How Would You Explain A Complex Technical Problem To Non-Tech Stakeholders?
+
+13. What Would Be The First Action If The Production Is Down?
+
+14. How Would You Evaluate And Examine Our Existing Systems To Suggest The Scope Of Improvement?
+
+15. How Do You Plan And Prioritize Your Work?
+
+16. Have You Modified A System To Enhance Its Workflow? Share Your Experience.
+
+17. What Is Client-Server Architecture?
