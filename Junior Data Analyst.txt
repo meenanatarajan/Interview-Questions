@@ -1,13 +1,13 @@
 1) Mention what is the responsibility of a Data analyst?
-
+To analyze data
 2) What is required to become a data analyst?
-
+To be analytical
 3) Mention what are the various steps in an analytics project?
-
+First of all, to analyze
 4) Mention what is data cleansing?
-
+Clearing data
 5) List out some of the best practices for data cleaning?
-
+Update information
 6) Explain what is logistic regression?
 
 7) List of some best tools that can be useful for data-analysis?
