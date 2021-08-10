@@ -1,7 +1,7 @@
 1) Mention what is the responsibility of a Data analyst?
 To analyze data
 2) What is required to become a data analyst?
-To be analytical
+To be analytical.
 3) Mention what are the various steps in an analytics project?
 First of all, to analyze
 4) Mention what is data cleansing?
