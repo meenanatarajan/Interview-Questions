@@ -1,8 +1,19 @@
 1. According To You, What Is The Basic Role Of A Computer System Analyst?
 
+    A computer system analyst should provide a suitable user-friendly system through his/her analysis and evaluation skills.
+
 2. Can You Share Some Of Your Experience In The Most Recent Computer Programming Projects?
 
+    I utilized the feasibility analysis report to come up with system specification analysis. 
+
 3. Explain The Process Of Analyzing The Existing System.
+
+    1. Analyze
+    2. Define
+    3. Create guideline
+    4. Revise
+    5. Compare
+    6. Document
 
 4. How Will You Differentiate Between Functional And Non-Functional Requirements?
 
